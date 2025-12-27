@@ -16,6 +16,7 @@ The OxideCMS project is composed of two primary repositories: the front-end clie
 | ------------------------------------------------------------------------------- | -------------------------------------------- |
 | 📍 **[oxidecms-web](https://github.com/a-s-l-a-h/oxidecms-web)**  | The Preact front-end client application.     |
 | ⚙️ **[oxidecms-core-backend](https://github.com/a-s-l-a-h/oxidecms-core-backend)** | The core backend server that provides the API. |
+| 📍 **[oxidecms-flutter-client](https://github.com/a-s-l-a-h/oxidecms-flutter-client)**  | The Flutter based front-end client. |
 
 
 ## ✨ Features
