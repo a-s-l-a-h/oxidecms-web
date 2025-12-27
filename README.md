@@ -4,6 +4,9 @@
 
 Welcome to **OxideCMS Web**, a modern, fast, and offline-first client for your content, built with Preact and Vite. This project is designed to deliver a seamless and performant reading experience for any content-driven platform.
 
+
+#### **This is the front-end client. For details on the backend that powers these features (API, search logic, etc.), please visit the OxideCMS Core Backend repository. https://github.com/a-s-l-a-h/oxidecms-core-backend**
+
 ## ✨ Features
 
 *   **Blazing Fast Performance**: Built with Preact and Vite for near-instant loading and Hot Module Replacement (HMR) during development.
