@@ -7,6 +7,17 @@ Welcome to **OxideCMS Web**, a modern, fast, and offline-first client for your c
 
 #### **This is the front-end client. For details on the backend that powers these features (API, search logic, etc.), please visit the OxideCMS Core Backend repository. https://github.com/a-s-l-a-h/oxidecms-core-backend**
 
+
+## 🌐 Project Repositories
+
+The OxideCMS project is composed of two primary repositories: the front-end client and the back-end server.
+
+| Repository                                                                      | Description                                  |
+| ------------------------------------------------------------------------------- | -------------------------------------------- |
+| 📍 **[oxidecms-web](https://github.com/a-s-l-a-h/oxidecms-web)**  | The Preact front-end client application.     |
+| ⚙️ **[oxidecms-core-backend](https://github.com/a-s-l-a-h/oxidecms-core-backend)** | The core backend server that provides the API. |
+
+
 ## ✨ Features
 
 *   **Blazing Fast Performance**: Built with Preact and Vite for near-instant loading and Hot Module Replacement (HMR) during development.
